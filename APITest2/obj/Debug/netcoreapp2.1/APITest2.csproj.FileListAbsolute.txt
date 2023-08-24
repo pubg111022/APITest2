@@ -1,0 +1,15 @@
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.csproj.CoreCompileInputs.cache
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.AssemblyInfo.cs
+C:\Users\vanda\source\repos\APITest2\APITest2\bin\Debug\netcoreapp2.1\APITest2.deps.json
+C:\Users\vanda\source\repos\APITest2\APITest2\bin\Debug\netcoreapp2.1\APITest2.runtimeconfig.json
+C:\Users\vanda\source\repos\APITest2\APITest2\bin\Debug\netcoreapp2.1\APITest2.runtimeconfig.dev.json
+C:\Users\vanda\source\repos\APITest2\APITest2\bin\Debug\netcoreapp2.1\APITest2.dll
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.csprojAssemblyReference.cache
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.RazorAssemblyInfo.cache
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.RazorAssemblyInfo.cs
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.RazorTargetAssemblyInfo.cache
+C:\Users\vanda\source\repos\APITest2\APITest2\bin\Debug\netcoreapp2.1\APITest2.pdb
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.dll
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\APITest2.pdb
+C:\Users\vanda\source\repos\APITest2\APITest2\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
